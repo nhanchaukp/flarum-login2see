@@ -1,5 +1,4 @@
 # Login 2 See
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### Explanation
@@ -7,6 +6,7 @@
 This Extension is powered by WiseClock, and updated by nhanchaukp, but after flarum v1.0, the extension can not be used. so I upgrade it, now it can run under flarum v1.0 and v1.1.0
 
 ### About This Extension
+![Demo](https://i.imgur.com/uVfLJAG.png)
 
 A Flarum extension. Adds a login to see BBCODE.
 
