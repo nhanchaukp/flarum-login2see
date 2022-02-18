@@ -4,7 +4,7 @@
 
 ### Explanation
 
-This Extension is powered by nhanchaukp, and updated by Kvothe, but after flarum v1.0, the extension can not be used. so I upgrade it, now it can run under flarum v1.0 and v1.1.0
+This Extension is powered by WiseClock, and updated by nhanchaukp, but after flarum v1.0, the extension can not be used. so I upgrade it, now it can run under flarum v1.0 and v1.1.0
 
 ### About This Extension
 
