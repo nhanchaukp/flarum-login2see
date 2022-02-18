@@ -1,0 +1,38 @@
+{
+  "name": "nhanchaukp/login-to-see",
+  "description": "Adds a login to see BBCODE.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0",
+    "flarum/bbcode": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "nhanchaukp",
+      "role": "Developer",
+	  "home": "https://nhanchau.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nosun\\ReplyToSee\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Login 2 See",
+      "icon": {
+        "name": "2",
+        "backgroundColor": "#33ee33",
+        "color": "#ffffff"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
