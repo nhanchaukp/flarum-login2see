@@ -14,7 +14,7 @@ Note that it only works for the main post (the start post of a discussion). This
 
 ### How to
 
-When creating/editing a post, you can simply use the [login] BBCode to make it hidden to other users until they've replied.
+When creating/editing a post, you can simply use the [login] BBCode to make it hidden to other users until they've logined.
 ```
 [login]Here goes the content[/login]
 ```
