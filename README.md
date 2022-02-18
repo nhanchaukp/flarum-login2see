@@ -10,7 +10,7 @@ This Extension is powered by WiseClock, and updated by nhanchaukp, but after fla
 
 A Flarum extension. Adds a login to see BBCODE.
 
-Note that it only works for the main post (the start post of a discussion) because I don't think it makes sense to ask people logining to a comment post to see it's content. This BBCode will be replaced by div in comment posts.
+Note that it only works for the main post (the start post of a discussion). This BBCode will be replaced by div in comment posts.
 
 ### How to
 
