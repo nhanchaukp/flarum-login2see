@@ -26,9 +26,9 @@
     "flarum-extension": {
       "title": "Login 2 See",
       "icon": {
-        "name": "2",
-        "backgroundColor": "#33ee33",
-        "color": "#ffffff"
+        "name": "far fa-eye",
+        "backgroundColor": "#2e86de",
+        "color": "#fff"
       }
     },
     "flagrow": {
